@@ -1,0 +1,43 @@
+.education{
+text-align: center;
+background-color: salmon;
+table-layout: initial;
+text-transform: uppercase;
+}
+.table{
+    table-layout: auto;
+    background-color: skyblue;
+    
+}
+h4{
+    text-emphasis: none;
+    text-decoration-style: dashed;
+}
+h1{
+    text-shadow: slategray;
+    background-color: skyblue;
+}
+.footer{
+    background-color: skyblue;
+
+}li{
+    text-transform: capitalize;
+    font-style: oblique;
+    text-emphasis-color:red;
+}
+
+.image{
+    border-radius: 1px;
+    border-image-slice: 2px;
+}
+h3{
+    background-color: rgb(51, 46, 26);
+}
+p{
+text-overflow: clip;
+font-style: oblique;
+}
+image{
+    list-style-image: initial;
+    border-image:   rgb(150, 18, 18) solid color 1px;
+}
